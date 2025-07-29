@@ -919,7 +919,7 @@ def about_page():
 
     st.subheader("Links Úteis")
     st.markdown("- [Repositório GitHub do Projeto](LINK_DO_SEU_GITHUB_AQUI)")
-    st.markdown("- [Link do Vídeo de Apresentação (se houver)](LINK_DO_SEU_VIDEO_AQUI)")
+    st.markdown("https://github.com/antonioaugusto79/Sistema_Preditivo_de_Obesidade")
 
 
 # Exibir a página selecionada
